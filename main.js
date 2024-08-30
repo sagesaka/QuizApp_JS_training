@@ -57,3 +57,7 @@ function answerPush(ans) {
     quizSet();
   }
 }
+
+function pageLoad() {
+  window.location.reload();
+}

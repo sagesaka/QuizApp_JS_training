@@ -43,3 +43,7 @@ ul {
 .btn-box button:hover {
   opacity: .7;
 }
+
+#load-btn {
+  margin-top: 20px;
+}
